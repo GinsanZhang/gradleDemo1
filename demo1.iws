@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c60d35d5-419e-40cd-b862-c77ebb4f0366" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ginsan/shape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ginsan/shape/RectangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ginsan/shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ginsan/shape/Rectangle.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -71,11 +70,11 @@
       <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ginsan/shape/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="180">
+              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
               <folding>
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
                 <element signature="e#306#307#0" expanded="true" />
                 <element signature="e#334#335#0" expanded="true" />
               </folding>
@@ -83,11 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RectangleTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RectangleTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/ginsan/shape/RectangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+            <state relative-caret-position="225">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -121,8 +120,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/readme.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ginsan/shape/Rectangle.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ginsan/shape/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ginsan/shape/RectangleTest.java" />
       </list>
     </option>
@@ -423,7 +422,7 @@
       <option name="presentableId" value="Default" />
       <updated>1561030602152</updated>
       <workItem from="1561030603767" duration="209000" />
-      <workItem from="1561030881363" duration="1756000" />
+      <workItem from="1561030881363" duration="2311000" />
     </task>
     <servers />
   </component>
@@ -445,7 +444,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1965000" />
+    <option name="totallyTimeSpent" value="2520000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="723" extended-state="0" />
@@ -458,8 +457,8 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3290735" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290735" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290735" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2827476" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info anchor="right" id="Database" order="3" />
@@ -525,33 +524,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ginsan/shape/RectangleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="225">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ginsan/shape/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="180">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           <folding>
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
             <element signature="e#306#307#0" expanded="true" />
             <element signature="e#334#335#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ginsan/shape/RectangleTest.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="195">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
         </state>
       </provider>
     </entry>
