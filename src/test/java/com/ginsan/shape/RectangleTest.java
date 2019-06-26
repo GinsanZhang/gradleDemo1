@@ -2,7 +2,8 @@ package com.ginsan.shape;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.assertj.core.api.Assertions.assertThat;
+
 
 public class RectangleTest{
 
@@ -11,9 +12,9 @@ public class RectangleTest{
         // given
         Rectangle rectangle = new Rectangle(1, 2);
         //when
-        int perimeter = rectangle.getPerimeter();
+        double perimeter = rectangle.getPerimeter();
         //then
-        assertEquals(6, perimeter);
+        assertThat(perimeter).isEqualTo(6);
     }
 
     @Test
@@ -21,9 +22,9 @@ public class RectangleTest{
         //given
         Rectangle rectangle = new Rectangle(1, 2);
         //when
-        int area = rectangle.getArea();
+        double area = rectangle.getArea();
         //then
-        assertEquals(2, area);
+        assertThat(area).isEqualTo(2);
     }
 
     @Test
@@ -31,8 +32,8 @@ public class RectangleTest{
         //given
         Rectangle rectangle = new Rectangle(-1, -2);
         //when
-        int area = rectangle.getArea();
+        double area = rectangle.getArea();
         //then
-        assertEquals(area,0);
+        assertThat(area).isEqualTo(0);
     }
 }
